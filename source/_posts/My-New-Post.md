@@ -1,3 +1,8 @@
+
+---
+title: 创建第一次提交测试
+---
+
 首先声名，这并不是一份完整的[Markdown][1]的语法介绍，需要看完整的介绍请点击[Markdown Syntax Documentation][2]。
 
 **本文的Markdown源代码可以至后台编辑文章进行查看，文章结尾也将以源代码的形式贴出**
@@ -115,11 +120,3 @@
     *****
     - - -
     ---------------------------------------
-    
-
-本文源代码作为示例
-
-[gist id=4200618]
-
- [1]: http://daringfireball.net/projects/markdown/
- [2]: http://daringfireball.net/projects/markdown/syntax
